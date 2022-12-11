@@ -5,7 +5,7 @@
 ## 🔗 Links
 
 [Code Link](https://codesandbox.io/s/react-project-10-todo-grocery-jj4znh) <br>
-[Live](https://pk170970.github.io/csb-jj4znh/) <br>
+[Live](https://csb-jj4znh.netlify.app/) <br>
 [Linkedin](https://www.linkedin.com/in/pratyush-kesarwani-2b6601171/)
 
 
